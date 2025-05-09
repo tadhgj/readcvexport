@@ -1,0 +1,314 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "tadhg",
+    "displayName": "Tadhg",
+    "profession": "Student",
+    "location": "New Jersey",
+    "pronouns": null,
+    "byline": "Student in New Jersey",
+    "website": "tadhg.ski",
+    "websiteURL": "https://tadhg.ski/",
+    "about": "I make software that I'd actually want to use",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Projects",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Work Experience",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "RbQ8DFnf1FIYkBRqOmym",
+      "year": "2023",
+      "heading": "RURadar",
+      "url": "https://tigertjj.com/ruradarapp",
+      "collaborators": [],
+      "description": "A native iOS app for viewing Rutgers Buses",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1024,
+          "height": 1024,
+          "url": "/content/media/RURadar-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1290,
+          "height": 2796,
+          "url": "/content/media/RURadar-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1284,
+          "height": 2778,
+          "url": "/content/media/RURadar-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1284,
+          "height": 2778,
+          "url": "/content/media/RURadar-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1284,
+          "height": 2778,
+          "url": "/content/media/RURadar-5.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "RURadar",
+      "company": ""
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "qBKUCsB4MKfdEYcfm0ww",
+      "year": "2023",
+      "heading": "Yorecast",
+      "url": "http://tigertjj.com/projects/yorecast",
+      "collaborators": [],
+      "description": "A simple weather app that visually compares yesterday, today, and tomorrow's temperature, hour by hour.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Yorecast",
+      "company": ""
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "Yo2pt5H4ymoxt2ITQCqQ",
+      "year": "2024 — 2024",
+      "heading": "Software Engineer Intern at Siemens",
+      "url": null,
+      "collaborators": [],
+      "description": "* Returned to continue to support internal python tool\n* In under 4 weeks, (learned &) created C# WPF app to interface with an internal JSON API.\n* Pioneered report collecting functionality\n* Styled WPF app to show a digital twin of an embedded system",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Software Engineer Intern",
+      "company": "Siemens",
+      "location": ""
+    },
+    {
+      "id": "LLBEOkgiFcHP5qt9xeW1",
+      "year": "2023 — 2023",
+      "heading": "Software Engineer Intern at Siemens",
+      "url": null,
+      "collaborators": [],
+      "description": "- First dive into an Agile workplace!\n- Migrated data from old source control tools to git\n- Led a total UI/UX overhaul on an internal development tool that may be shipped to customers\n- Was able to transplant my UI skills from Web to use in Python's tkinter in less than a week",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Software Engineer Intern",
+      "company": "Siemens",
+      "location": null
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "o3jS7NhR0I794bt0rp2z",
+      "year": "2022 — Now",
+      "heading": "Bachelors in Computer Science at Rutgers University",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelors in Computer Science",
+      "school": "Rutgers University",
+      "location": "New Brunswick"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "tc1on04T3Ip63JordP3D",
+      "platform": "Website",
+      "handle": "tadhg.ski",
+      "url": "https://tadhg.ski/"
+    },
+    {
+      "id": "Xrn1QgX9yDLUPCst6wrn",
+      "platform": "Email",
+      "handle": "tadhg@jarzebowski.com",
+      "url": "mailto:tadhg@jarzebowski.com"
+    },
+    {
+      "id": "MHfi5MRRWSSIO7T5J12R",
+      "platform": "GitHub",
+      "handle": "tadhgj",
+      "url": "https://github.com/tadhgj"
+    },
+    {
+      "id": "RmsE08IsJ09uSUXaYbQV",
+      "platform": "LinkedIn",
+      "handle": "tadhgj",
+      "url": "https://linkedin.com/in/tadhgj"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "RbQ8DFnf1FIYkBRqOmym",
+          "year": "2023",
+          "heading": "RURadar",
+          "url": "https://tigertjj.com/ruradarapp",
+          "collaborators": [],
+          "description": "A native iOS app for viewing Rutgers Buses",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1024,
+              "height": 1024,
+              "url": "/content/media/RURadar-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1290,
+              "height": 2796,
+              "url": "/content/media/RURadar-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1284,
+              "height": 2778,
+              "url": "/content/media/RURadar-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1284,
+              "height": 2778,
+              "url": "/content/media/RURadar-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1284,
+              "height": 2778,
+              "url": "/content/media/RURadar-5.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "RURadar",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "qBKUCsB4MKfdEYcfm0ww",
+          "year": "2023",
+          "heading": "Yorecast",
+          "url": "http://tigertjj.com/projects/yorecast",
+          "collaborators": [],
+          "description": "A simple weather app that visually compares yesterday, today, and tomorrow's temperature, hour by hour.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Yorecast",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "Yo2pt5H4ymoxt2ITQCqQ",
+          "year": "2024 — 2024",
+          "heading": "Software Engineer Intern at Siemens",
+          "url": null,
+          "collaborators": [],
+          "description": "* Returned to continue to support internal python tool\n* In under 4 weeks, (learned &) created C# WPF app to interface with an internal JSON API.\n* Pioneered report collecting functionality\n* Styled WPF app to show a digital twin of an embedded system",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Software Engineer Intern",
+          "company": "Siemens",
+          "location": ""
+        },
+        {
+          "id": "LLBEOkgiFcHP5qt9xeW1",
+          "year": "2023 — 2023",
+          "heading": "Software Engineer Intern at Siemens",
+          "url": null,
+          "collaborators": [],
+          "description": "- First dive into an Agile workplace!\n- Migrated data from old source control tools to git\n- Led a total UI/UX overhaul on an internal development tool that may be shipped to customers\n- Was able to transplant my UI skills from Web to use in Python's tkinter in less than a week",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Software Engineer Intern",
+          "company": "Siemens",
+          "location": null
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "o3jS7NhR0I794bt0rp2z",
+          "year": "2022 — Now",
+          "heading": "Bachelors in Computer Science at Rutgers University",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelors in Computer Science",
+          "school": "Rutgers University",
+          "location": "New Brunswick"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "tc1on04T3Ip63JordP3D",
+          "platform": "Website",
+          "handle": "tadhg.ski",
+          "url": "https://tadhg.ski/"
+        },
+        {
+          "id": "Xrn1QgX9yDLUPCst6wrn",
+          "platform": "Email",
+          "handle": "tadhg@jarzebowski.com",
+          "url": "mailto:tadhg@jarzebowski.com"
+        },
+        {
+          "id": "MHfi5MRRWSSIO7T5J12R",
+          "platform": "GitHub",
+          "handle": "tadhgj",
+          "url": "https://github.com/tadhgj"
+        },
+        {
+          "id": "RmsE08IsJ09uSUXaYbQV",
+          "platform": "LinkedIn",
+          "handle": "tadhgj",
+          "url": "https://linkedin.com/in/tadhgj"
+        }
+      ]
+    }
+  ]
+}
