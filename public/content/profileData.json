@@ -97,6 +97,19 @@
   "features": [],
   "workExperience": [
     {
+      "id": "Bo2pt5H4ymoxt2ITQCqQ",
+      "year": "2025 - Present",
+      "heading": "System Engineer at Siemens",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "System Engineer",
+      "company": "Siemens",
+      "location": ""
+    },
+    {
       "id": "Yo2pt5H4ymoxt2ITQCqQ",
       "year": "2024 — 2024",
       "heading": "Software Engineer Intern at Siemens",
@@ -127,7 +140,7 @@
   "education": [
     {
       "id": "o3jS7NhR0I794bt0rp2z",
-      "year": "2022 — Now",
+      "year": "2022 — 2025",
       "heading": "Bachelors in Computer Science at Rutgers University",
       "url": null,
       "collaborators": [],
@@ -236,6 +249,19 @@
       "name": "Work Experience",
       "items": [
         {
+          "id": "Bo2pt5H4ymoxt2ITQCqQ",
+          "year": "2025 - Present",
+          "heading": "System Engineer at Siemens",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "System Engineer",
+          "company": "Siemens",
+          "location": ""
+        },
+        {
           "id": "Yo2pt5H4ymoxt2ITQCqQ",
           "year": "2024 — 2024",
           "heading": "Software Engineer Intern at Siemens",
@@ -268,7 +294,7 @@
       "items": [
         {
           "id": "o3jS7NhR0I794bt0rp2z",
-          "year": "2022 — Now",
+          "year": "2022 — 2025",
           "heading": "Bachelors in Computer Science at Rutgers University",
           "url": null,
           "collaborators": [],
